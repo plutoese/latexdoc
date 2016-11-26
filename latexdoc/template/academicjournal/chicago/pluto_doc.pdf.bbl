@@ -1,0 +1,107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{cms}{cms}
+    \entry{Ful83}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=205bfcbd8ec5b58401ee1d5cbd94a5de}{Fulton}{F\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \strng{fullhash}{205bfcbd8ec5b58401ee1d5cbd94a5de}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Regional Conference Series in Mathematics}
+      \field{number}{54}
+      \field{title}{Introduction to intersection theory in algebraic geometry}
+      \field{year}{1983}
+    \endentry
+    \entry{GMP81}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b15942e14abdb631ba51589b6335f824}{Goresky}{G\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1a0002b3b9ae04202872e159c0ec9712}{MacPherson}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5c3535441b3c2a883f5637805dfd81be}
+      \strng{fullhash}{5c3535441b3c2a883f5637805dfd81be}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Algebraic Geometry Proceedings, La Rábida, Lecture Notes in Mathematics}
+      \field{number}{961}
+      \field{title}{On the topology of complex algebraic maps}
+      \field{year}{1981}
+    \endentry
+    \entry{PP95}{article}{}
+      \name{author}{2}{}{%
+        {{hash=7bc526095771e4915d46fd5359792a5f}{Parusiński}{P\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5837c00e51b4f86c3c65a17acb79936c}{Pragacz}{P\bibinitperiod}{Piotr}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \strng{fullhash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Alg. Geom.}
+      \field{title}{A formula for the {E}uler characteristic of singular hypersurfaces}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{337\bibrangedash 351}
+      \range{pages}{15}
+    \endentry
+    \entry{PP98}{unpublished}{}
+      \name{author}{2}{}{%
+        {{hash=7bc526095771e4915d46fd5359792a5f}{Parusiński}{P\bibinitperiod}{Adam}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=5837c00e51b4f86c3c65a17acb79936c}{Pragacz}{P\bibinitperiod}{Piotr}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \strng{fullhash}{d69971bc2d8fcc0b6875983e5cbb5f54}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{01}
+      \field{note}{preprint}
+      \field{title}{Characteristic classes of hypersurfaces and characteristic cycles}
+      \field{year}{1998}
+    \endentry
+    \entry{Pat85}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=cd8880206e2f4434d45288327e7bf192}{Pati}{P\bibinitperiod}{V.}{V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Princeton}%
+      }
+      \strng{namehash}{cd8880206e2f4434d45288327e7bf192}
+      \strng{fullhash}{cd8880206e2f4434d45288327e7bf192}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is the title??}
+      \field{type}{phdthesis}
+      \field{year}{1985}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

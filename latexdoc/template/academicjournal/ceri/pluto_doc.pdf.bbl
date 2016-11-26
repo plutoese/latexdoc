@@ -1,0 +1,82 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Fortunato(2010)]{Fortunato2010}
+Santo Fortunato.
+\newblock Community detection in graphs.
+\newblock \emph{Physics Reports}, 486\penalty0 (3-5):\penalty0 75--174, 2010.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0370157309002841}.
+
+\bibitem[Gerbaud(2010)]{Gerbaud2010}
+Antoine Gerbaud.
+\newblock \emph{Modélisation de réseaux d'interaction par des graphes
+  aléatoires}.
+\newblock Phd, Université de Grenoble, Grenoble, FR, 2010.
+\newblock URL
+  \url{http://www-ljk.imag.fr/Publications/Basilic/com.lmc.publi.PUBLI_Phdthesis@12cad546417_7edeb051/index_en.html}.
+
+\bibitem[JabRef(2008)]{JabRef2008}
+JabRef.
+\newblock {JabRef} documentation, 2008.
+\newblock URL \url{http://jabref.sourceforge.net/documentation.php}.
+
+\bibitem[{MiKTeX}(2015)]{MiKTeX2015}
+{MiKTeX}.
+\newblock {MiKTeX}…typesetting beautiful documents…, 2015.
+\newblock URL \url{http://miktex.org/}.
+
+\bibitem[Oracle(2011)]{Oracle2011}
+Oracle.
+\newblock {VirtualBox} documentation, 2011.
+\newblock URL \url{http://www.virtualbox.org/wiki/Documentation}.
+
+\bibitem[Project(2010)]{LaTeXProject2010}
+LaTeX Project.
+\newblock {LaTeX} – a document preparation system, 2010.
+\newblock URL \url{http://www.latex-project.org/}.
+
+\bibitem[Rosvall and Bergstrom(2009)]{Rosvall2009a}
+M.~Rosvall and C.~T. Bergstrom.
+\newblock Fast stochastic and recursive search algorithm.
+\newblock Technical report, Department of Physics, Umeå University, Umeå, SE,
+  2009.
+
+\bibitem[Texmaker(2011)]{Texmaker2011}
+Texmaker.
+\newblock Manuel de l'utilisateur, 2011.
+\newblock URL \url{http://www.xm1math.net/texmaker/doc_fr.html}.
+
+\bibitem[Wei and Cheng(1989)]{Wei1989}
+Y.-C. Wei and C.-K. Cheng.
+\newblock Towards efficient hierarchical designs by ratio cut partitioning.
+\newblock In \emph{IEEE International Conference on Computer Aided Design},
+  pages 298--301, 1989.
+\newblock URL
+  \url{http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=76957}.
+
+\bibitem[Wikibooks(2010)]{Wikibooks2010}
+Wikibooks.
+\newblock Guide pour la programmation en {LaTeX}, 2010.
+\newblock URL \url{http://fr.wikibooks.org/wiki/LaTeX}.
+
+\bibitem[Wikibooks(2011)]{Wikibooks2011}
+Wikibooks.
+\newblock Guide to the {LaTeX} markup language, 2011.
+\newblock URL \url{http://en.wikibooks.org/wiki/LaTeX}.
+
+\bibitem[Wikipedia(2011{\natexlab{a}})]{Wikipedia2011}
+Wikipedia.
+\newblock Flowchart, 2011{\natexlab{a}}.
+\newblock URL \url{http://en.wikipedia.org/wiki/Flowchart}.
+
+\bibitem[Wikipedia(2011{\natexlab{b}})]{Wikipedia2011a}
+Wikipedia.
+\newblock {LaTeX}, 2011{\natexlab{b}}.
+\newblock URL \url{http://fr.wikipedia.org/wiki/LaTeX}.
+
+\end{thebibliography}

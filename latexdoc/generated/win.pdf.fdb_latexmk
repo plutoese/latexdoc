@@ -1,0 +1,12 @@
+# Fdb version 3
+["pdflatex"] 1476776589 "win.pdf.tex" "win.pdf.pdf" "win.pdf" 1476776589
+  "./win.pdf.tex" 1476776588 4434 2c391b8227623467f27536f67e7dad4c ""
+  "d:/texlive/2015/texmf-dist/web2c/texmf.cnf" 1455803218 31983 18aeec08f48baa3cf3508d538dd5f459 ""
+  "d:/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1455804334 3846276 e101005a0082ef419ee33fa6a2850da9 ""
+  "d:/texlive/2015/texmf.cnf" 1455804210 497 7277663fd190ea5a4fe922b182dc7be2 ""
+  "win.pdf.aux" 1476775809 9 a94a2480d3289e625eea47cd1b285758 ""
+  "win.pdf.tex" 1476776588 4434 2c391b8227623467f27536f67e7dad4c ""
+  "wlscirep.cls" 0 -1 0 ""
+  (generated)
+  "win.pdf.log"
+  "win.pdf.pdf"

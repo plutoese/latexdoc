@@ -1,0 +1,56 @@
+\documentclass[12pt,a4paper,UTF8]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[tmargin=1cm,lmargin=2cm]{geometry}
+\usepackage[space,noindent]{ctex}
+\usepackage{booktabs}
+\usepackage{tabularx}
+
+\begin{document}
+这是为你写的歌！你知不知道!
+\section{章节一}
+$$P(A \cap B) = P(A)P(B)$$
+\subsection{子章节}
+\subsubsection*{我的第三级章节}
+\subsection*{我的第二级章节}
+\subsubsection*{我的第三级章节2}
+\begin{enumerate}
+\item
+我的列表
+\item
+你的列表
+\end{enumerate}
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+name&gender&age\\
+\hline
+Tom&Male&24\\
+\hline
+Marry&Female&19\\
+\hline
+\end{tabular}
+\end{center}
+\begin{center}
+\begin{tabular}{|c|c|c|c|}
+\hline
+变量&第一产业占GDP的比重\_(全市)&第一产业占GDP的比重\_\$市辖区&我错了\\
+\hline
+1&2&3&4\\
+\hline
+5&6&7&8\\
+\hline
+\end{tabular}
+\end{center}
+\begin{tabularx}{90mm}{XXX}
+\toprule
+\multicolumn{3}{c}{Table} \\
+\cmidrule(r){1-3}
+name & gender & age \\
+\midrule
+Tom & Male & 24 \\
+Marry & Female & 19 \\
+\bottomrule
+\end{tabularx}
+\end{document}

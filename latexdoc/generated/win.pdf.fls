@@ -1,0 +1,6 @@
+PWD E:/github/latexdoc/latexdoc/generated
+INPUT d:/texlive/2015/texmf.cnf
+INPUT d:/texlive/2015/texmf-dist/web2c/texmf.cnf
+INPUT d:/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./win.pdf.tex
+OUTPUT win.pdf.log
